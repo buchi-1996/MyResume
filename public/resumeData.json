@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Buchi Godwin",
+    "occupation": "CEO of BuchTech",
+    "description": "I eat, sleep and breathe React",
+    "image": "IMG_20181226_082233_410.jpg",
+    "bio": "A Junior Front-end Developer. quick thinking and self-motivated. I am an avid learner and a curious being, I never get tired of exploring new trends and ideas",
+    "contactmessage": "Get in touch with me and get to experience me",
+    "email": "ukaigweonyebuchi@gmail.com",
+    "phone": "+234 8107572949",
+    "address": {
+      "street": "No. 18 Makele str.",
+      "city": "Port-Harcourt",
+      "state": "Rivers",
+      "zip": "500272"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PapaReact",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Port-Harcourt - NG",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "BuchTech",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "implementing visual and interactive elements that users engage with through their web browser when using a web application."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "55%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Country Album (React JS)",
+        "category": "",
+        "image": "Screenshot (1091).png",
+        "url": "https://buchi-1996.github.io/api-country/"
+      },
+      {
+        "title": "Twitter Clone (React JS)",
+        "category": "",
+        "image": "Screenshot (1092).png",
+        "url": "https://twitter-clone-react1.netlify.com/"
+      },
+      {
+        "title": "Note Pad (React JS)",
+        "category": "",
+        "image": "Screenshot (1093).png",
+        "url": "https://react-mui-todo.netlify.app/"
+      },
+      {
+        "title": "Movie Finder (React JS)",
+        "category": "",
+        "image": "Screenshot (1094).png",
+        "url": "https://movie-app-1.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Buchi is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Kim jessy"
+      },
+      {
+        "text": "Learning with Buchi has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Ben"
+      }
+    ]
+  }
+}
