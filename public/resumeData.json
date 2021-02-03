@@ -17,22 +17,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/onyebuchi.ukaigwe/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/buch-gwin-a29562176/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/itz_buchi/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/buchi-1996",
         "className": "fa fa-github"
       }
     ]
@@ -111,10 +111,6 @@
       {
         "text": "Buchi is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
         "user": "Kim jessy"
-      },
-      {
-        "text": "Learning with Buchi has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Ben"
       }
     ]
   }
